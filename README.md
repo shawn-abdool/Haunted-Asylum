@@ -36,13 +36,13 @@ A spooky 2D survival game built with **Pygame**, where you navigate eerie corrid
 
 1. Clone this repository:
 
-   git clone https://github.com/shawn-abdool/Haunted-Asylum.git
-   cd HauntedAsylum
+- git clone https://github.com/shawn-abdool/Haunted-Asylum.git
+- cd HauntedAsylum
 
 2. Install dependencies
 
-   pip install pygame
-   pip install pillow
+- pip install pygame
+- pip install pillow
 
 ---
 
